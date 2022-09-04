@@ -1,0 +1,38 @@
+Q3. Explain the core concepts of Maven.
+
+
+
+
+1. artifact :-
+
+--An artifact is an outcome in maven, it can be a file, .class file or a jar file, war file,ear file,etc.
+
+2. archetype:-
+
+--it is project template for creating similar type of project in maven.
+
+3. Groupid:  
+
+--it is an Id used to identify the artifacts of a perticular organization (naming convention is similar to package name.) com.masai
+
+
+
+4.artiactid : it is the id for the final outcome (artifactid name will be the root folder of our application)
+
+5.pom.xml :  (project object model) : all the information will be their in this file.
+
+--in this model, entire application itself will be considered as an object.
+
+it defines following properties for a project:
+
+1. Name
+2.version
+
+3. packaging (jar, war, ear)
+
+4.dependecnies : required jar files.
+
+5.plugins: will inhance the functionality of our project.
+
+docker 
+jenkins (CI/CD)

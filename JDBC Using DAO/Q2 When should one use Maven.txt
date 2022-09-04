@@ -1,0 +1,10 @@
+
+Q2. When should one use Maven?
+Maven is chiefly used for Java-based projects,
+ helping to download dependencies, which refers to the libraries or JAR files.
+ The tool helps get the right JAR files for each project as there may be different versions of separate packages. 
+
+After Maven, downloading dependencies doesn’t require visiting the official websites of different software.
+ You can visit mvnrepository to find libraries in different languages. 
+The tool also helps to create the right project structure in struts, servlets, etc.,
+ which is essential for execution. 
